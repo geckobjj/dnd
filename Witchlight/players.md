@@ -1,5 +1,13 @@
 # The Wild Beyond The Witchlight
 
+## Overall Story Tracker
+
+Unicorn horn - posessed by Archillus the peryton in chapter 4  
+Yuki wished for Kramgrom to get lost in the hall of illusions  
+Vo is the Witchlight Monarch (2 uses remain)  
+
+        Charm of the Monarch. You can sprout a pair of beautiful butterfly wings. As long as you have the wings, you gain a flying speed equal to your walking speed, and you gain a +5 bonus on all Charisma-based ability checks. These effects last for 1 hour. After you use this charm three times, it vanishes from you.
+
 ## Vo
 
 ### Description
@@ -33,6 +41,10 @@
     Hill Dwarf
     Trickster
     Bard
+
+### Fear
+
+Bats
 
 ### Curses
 
