@@ -257,6 +257,18 @@ Effects:
 - 6–7 **Warting Gas**. Hideous warts erupt across the character’s body. The warts are unattractive but have no harmful effect.
 - 8 **Bittertongue Gas**. A foul taste fills the character’s mouth, and everything the character eats or drinks tastes awful. **Slugs** appear to be the only exception; they taste like **ripe cherries**.
 
+### Inn at the End of the Road
+
+> A squat three story strucutre with a slate-shingled roof and worm-eaten wood walls crawls through the swamp on fleshy legs.  You can smell hearty stew wafting from the open windows and see smoke rising in cottony puffs from its stone chimney
+
+Tsu Harabax, elderly female human druid.
+
+Tsu offers freely beds, hot meals, and slices of delicious plum pie.  (She follows the rule of reciprocity).  Any old trinket will do, or the promise to restore Zybilna to power.
+
+Tsu heard rumors that Zybilna was trapped in her palace, but doesn't know more than that.
+
+When she was in power the Inn was the talk of Prsmeer.
+
 ### NPCs
 
 Harengon Brigand
