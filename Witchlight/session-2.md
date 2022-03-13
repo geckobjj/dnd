@@ -213,6 +213,26 @@ Players hurt Jingle
 
 ### 3. Brigansds' Tollway
 
+> A foggy marsh stretches out before you.  **Rickety causeways** mdae of wooden planks forma  wide, web-like structure above the bog.  THree hundred feet away, many of these causeways converge on an enormous, ivy-covered tree stump that rises a good ten feet above the twenty-foot-high fog bank that enshrouds it.
+
+        Running on causeway: 1d8 (on 7 or 8) part falls away Dex DC:10 to avoid falling.  Lands prone in mud and restrained. Strength DC:10 to get out.
+
+All along the causeway:
+> An odd feeling suddenly comes over you as you become aware that somewhere along the way, a hunched, hooded figure has joined the group.
+
+Agdon has two skiffs backing him up.  The skiffs contain three brigands and a sniper.
+
+Dealing with Agdon:
+
+        Grab the scarf: DC 17 Strength
+        Agdon can't move more than 15 feet from 
+        the character.  Strength contest.
+        Immediately surrenders like a bitch
+        when he loses.
+
+Backstory:  Zybilna cursed Agdon to never be able to remove the scarf after he refused to give it up.
+She then nailed it to a tree and caused the tree to grow.  Agdon struck a deal with Bavlorna to remove the nail from his scarf.  He has to give her one item from each person he steals from.
+
 ### 4. Downfall...
 
 ### Other Encounters:
